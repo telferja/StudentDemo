@@ -14,6 +14,8 @@ public class StudentDemo
   private String studentID;
   private String name;
   private String program;
+  private String course;
+  private String demo;
   
   
   /**
